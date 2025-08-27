@@ -1,5 +1,5 @@
 # FontPicker
-A simple app for displaying and filtering all apps installed on your system.
+A simple app for displaying and comparing all fonts installed on your system.
 
 # System Requirements:
 - MacOS
