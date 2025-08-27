@@ -3,9 +3,14 @@ A simple app for displaying and comparing all fonts installed on your system.
 
 # System Requirements:
 - MacOS
+If using Method 2 below:
 - Python
 
 # To Launch:
+METHOD 1:
+Download the DMG and install.
+
+METHOD 2:
 1. Download font_preview_app.py (or copy the code into a file and save with that name)
 2. Open a Terminal window at the enclosing folder
 3. Type the command 'python3 font_preview_app.py'
