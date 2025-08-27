@@ -3,6 +3,7 @@ A simple app for displaying and comparing all fonts installed on your system.
 
 # System Requirements:
 - MacOS
+  
 If using Method 2 below:
 - Python
 
